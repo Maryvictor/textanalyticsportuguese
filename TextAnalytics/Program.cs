@@ -7,8 +7,8 @@ namespace TextAnalytics
     class Program
     {
 
-        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("12fab17525864097ad595e19ae767f0e");
-        private static readonly Uri endpoint = new Uri("https://textanalyticscarambola.cognitiveservices.azure.com/");
+        private static readonly AzureKeyCredential credentials = new AzureKeyCredential("");
+        private static readonly Uri endpoint = new Uri("");
        
 
         static void Main(string[] args)
