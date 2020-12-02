@@ -1,0 +1,17 @@
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.exe
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csprojAssemblyReference.cache
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.AssemblyInfoInputs.cache
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.AssemblyInfo.cs
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.deps.json
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.runtimeconfig.json
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.runtimeconfig.dev.json
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.dll
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\TextAnalytics.pdb
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csproj.CoreCompileInputs.cache
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.csproj.CopyComplete
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.dll
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.pdb
+C:\Users\teste\source\repos\TextAnalytics\TextAnalytics\obj\Debug\netcoreapp3.1\TextAnalytics.genruntimeconfig.cache
